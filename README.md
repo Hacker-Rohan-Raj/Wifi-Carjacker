@@ -10,15 +10,15 @@
 
 Open the Wifi Carjacker.exe after downloading the repository (or) Run the python script using Command Line
 
-For Debian:- 
-***
-git clone https://github.com/Hacker-Rohan-Raj/Wifi-Carjacker
-***
-***
+### For Debian:- 
+
+`git clone https://github.com/Hacker-Rohan-Raj/Wifi-Carjacker
+
+
 cd Wifi-Carjacker
-***
-***
-python3 Wifi-Carjacker.py
-***
+
+
+python3 Wifi-Carjacker.py`
+
 
 # Enjoy !!
